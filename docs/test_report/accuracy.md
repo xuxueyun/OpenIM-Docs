@@ -44,15 +44,15 @@
 
 mongodb数据情况
 
-![mongodb](..\images\mongodb.png)
+![mongodb](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/mongodb.png)
 
 redis数据情况
 
-![redis](..\images\redis.png)
+![redis](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/redis.png)
 
 磁盘状态
 
-![disk](..\images\disk.png)
+![disk](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/disk.png)
 
 资源占用分析
 
@@ -172,7 +172,7 @@ func main() {
 
 此表格是某IM云平台的价格，如果按照10万月活，存储三年消息来算，大概每年需要支付15万。而采用OpenIM只需要采购云主机，每年成本约0.8万。
 
-![cloud1](..\images\cloud1.png)
+![cloud1](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/cloud1.png)
 
-![cloud2](..\images\cloud2.png)
+![cloud2](https://github.com/OpenIMSDK/OpenIM-Docs/blob/main/docs/images/cloud2.png)
 
